@@ -1,4 +1,4 @@
-package pl.us.edu;
+package pl.edu.us;
 
 public class Main {
 
